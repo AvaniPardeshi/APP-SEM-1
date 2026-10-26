@@ -1,0 +1,4 @@
+Python is easy to learn.
+Python is a programming language.
+It is used for many applications.
+We use Python for data analysis.
